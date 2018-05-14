@@ -2,7 +2,6 @@
 #define SOMEFUNCTION_H
 #include <QErrorMessage>
 #include "Matrix.h"
-#include "mainwindow.h"
 #include <QTableWidgetItem>
 
 void ShowErrorMsg(const error message){//показывает сообщение о неверных входных данных
@@ -37,7 +36,7 @@ Matrix TableToMatrix(QTableWidget *table){
                 long double t = (table->item(i, j)->text()).toDouble(&ok);//извлекаем содержимое ячейки [i][j]
                 if (!ok)//если конвертация не удалась, бросить исключение
                     throw incorrec_data;
-                tmp.SetIJ(t,i,j);//записываем значение в таблицу
+                tmp.SetIJ(t, i,j);//записываем значение в таблицу
 
              }
 
@@ -51,10 +50,10 @@ Matrix TableToMatrix(QTableWidget *table){
 }
 
 //помещает в таблицу содержимое матрицы
-void MatrixToTable(Matrix &matrix, QTableWidget *table, int s){
+void MatrixToTable(Matrix &matrix, QTableWidget *table){
     for (int i = 0; i<table->rowCount(); i++){
         for (int j = 0; j<table->columnCount(); j++){
-            QString str = QString::number(matrix.GetIJ(i,j), 'f', s);
+            QString str = QString::number(matrix.GetIJ(i,j), 'f', 6);
             table->setItem(i, j, new QTableWidgetItem(str));
         }
     }
