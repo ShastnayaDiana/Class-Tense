@@ -1,0 +1,22 @@
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojResolveAssemblyReference.cache
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\днс\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.History.resources
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.History.resources
+C:\Users\днс\Documents\Visual Studio 2017\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojResolveAssemblyReference.cache
